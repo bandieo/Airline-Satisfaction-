@@ -1,10 +1,13 @@
 # Airline Passenger Satisfaction Dataset
 
-This dataset is a dummy dataset for Airline Passenger Satisfaction and was downloaded from Kaggle from this link: [Airline Passenger Satisfaction Survey Dataset](https://www.kaggle.com/datasets/deltasierra452/airline-pax-satisfaction-survey/data)
+The start dataset (airline_customer_satisfaction_survey.csv) is a dummy dataset for Airline Passenger Satisfaction and was downloaded from Kaggle from this link: 
+[Airline Passenger Satisfaction Survey Dataset](https://www.kaggle.com/datasets/deltasierra452/airline-pax-satisfaction-survey/data)
+
+The project was ran on R. The code is provided as (airline satisfaction.R)
 
 ## Research Goal
 
-- Explore correlations between customer touchpoints.
+- Explore correlations using R between customer touchpoints.
 - Understand which touchpoint is the highest predictor of passenger satisfaction.
 
 ## Goals of Code
